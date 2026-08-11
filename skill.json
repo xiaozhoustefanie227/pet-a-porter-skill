@@ -1,0 +1,35 @@
+{
+  "name": "pet-a-porter",
+  "display_name": "Pet-à-Porter",
+  "version": "2.0.0",
+  "tagline": "Find the pet that matches your style.",
+  "description": "Upload one outfit photo and get matched with the perfect fashion pet, styled to echo your look and naturally added into your image.",
+  "author": "A2H Market",
+  "license": "MIT",
+  "category": ["Image Editing", "Fashion", "Lifestyle"],
+  "tags": [
+    "fashion",
+    "pet",
+    "style matching",
+    "outfit",
+    "image editing",
+    "editorial",
+    "lifestyle",
+    "portrait"
+  ],
+  "default_mode": "Perfect Match",
+  "modes": ["Perfect Match", "Mini Me", "Fashion Contrast"],
+  "input": {
+    "type": "single outfit or lifestyle photo",
+    "preferred_framing": ["full body", "3/4 body", "half body"],
+    "requirements": [
+      "outfit should be visible",
+      "scene should be readable",
+      "person should remain preserved"
+    ]
+  },
+  "output": {
+    "text": "short fashion-pet match line",
+    "image": "edited image with naturally integrated pet"
+  }
+}
