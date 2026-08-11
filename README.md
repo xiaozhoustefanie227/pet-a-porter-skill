@@ -2,6 +2,8 @@
 
 **Find the pet that matches your style.**
 
+![Pet-à-Porter — find the pet that matches your style](assets/cover.png)
+
 Pet-à-Porter is a fashion-led image skill that turns one outfit photo into a stylish fashion-pet portrait.
 
 Upload a look. The skill reads the person's **Style DNA**, selects a pet that belongs in the same aesthetic world, and adds that pet naturally into the original image.
@@ -35,6 +37,14 @@ The pet should feel like a stylish companion, not a costumed prop.
 - **Perfect Match** — the most natural and stylish companion.
 - **Mini Me** — the pet becomes a subtle fashion twin.
 - **Fashion Contrast** — an editorial contrast, but still believable.
+
+## Example
+
+A houndstooth-coat look, matched with a miniature schnauzer styled in a coordinated
+houndstooth coat — same palette, same tailored energy, naturally integrated into the
+original scene.
+
+![Example — houndstooth look matched with a schnauzer in a coordinated coat](assets/example-01.png)
 
 ## Deliverable
 
