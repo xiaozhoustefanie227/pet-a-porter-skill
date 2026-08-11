@@ -46,6 +46,12 @@ original scene.
 
 ![Example — houndstooth look matched with a schnauzer in a coordinated coat](assets/example-01.png)
 
+Before / after — a beige trench, white tee, and wide-leg jeans, matched with a
+wire-haired dachshund styled in a tiny trench-inspired coat and dropped into the same
+frame, lighting, and ground plane.
+
+![Before and after — trench look matched with a dachshund in a coordinated trench coat](assets/example-02.jpg)
+
 ## Deliverable
 
 The skill outputs:
